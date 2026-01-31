@@ -6,7 +6,7 @@ The project includes data processing, analysis, visualization, and final results
 ---
 
 ## 📌 Project Overview
-- Project Type: Hackathon / Academic Project
+- Project Type: Hackathon Project
 - Language: Python
 - Interface: Jupyter Notebook
 - IDE Used: VS Code
@@ -33,7 +33,7 @@ HackathonProject/
 - Pandas
 - Matplotlib
 - Seaborn
-- Scikit-learn (if ML is used)
+
 
 ---
 
@@ -56,7 +56,7 @@ Important graphs are also saved in the images/ folder.
 ▶️ How to Run the Project
 Clone the repository:
 
-git clone https://github.com/USERNAME/REPO_NAME.git
+git clone Https:/luckylucky110507/Hackathon-Jupyter-Notebook.git
 Open the project folder in VS Code or Jupyter Notebook.
 
 Open:
@@ -80,4 +80,5 @@ Final output
 👩‍💻 Author
 Lucky Kumari
 B.Tech CSE Student
+
 Hackathon Participant
