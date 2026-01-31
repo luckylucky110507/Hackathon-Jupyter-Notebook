@@ -1,0 +1,9 @@
+order_id,user_id,res_id,amount,city
+101,1,1,250,Chennai
+102,2,2,400,Pune
+103,3,3,320,Hyderabad
+104,2,3,150,Pune
+105,4,4,180,Bengaluru
+106,3,1,270,Hyderabad
+107,1,2,220,Chennai
+108,3,3,500,Hyderabad
