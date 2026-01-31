@@ -56,7 +56,7 @@ Important graphs are also saved in the images/ folder.
 ▶️ How to Run the Project
 Clone the repository:
 
-git clone Https:/luckylucky110507/Hackathon-Jupyter-Notebook.git
+git clone https://github.com/luckylucky110507/Hackathon-Jupyter-Notebook.git
 Open the project folder in VS Code or Jupyter Notebook.
 
 Open:
@@ -82,3 +82,4 @@ Lucky Kumari
 B.Tech CSE Student
 
 Hackathon Participant
+
