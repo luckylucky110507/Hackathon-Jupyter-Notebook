@@ -1,82 +1,91 @@
-🏆 Hackathon Project – Jupyter Notebook Implementation
+Food Delivery Data Analysis – Hackathon Project
 
-This repository contains my hackathon project implemented using **Python** and **Jupyter Notebook**.  
-The project includes data processing, analysis, visualization, and final results in a well-structured notebook.
+This repository contains my Hackathon Data Analysis Project using Python and Jupyter Notebook.
+The project analyzes food delivery order data to extract business insights such as revenue, popular restaurants, order trends, and visual analytics.
 
----
+📁 Project Structure
+Hackathon-Jupyter-Notebook/
+│
+├── hackathon_project/
+│   ├── food_delivery_analysis.ipynb
+│   ├── orders_analysis.ipynb
+│
+├── dataset/
+│   ├── final_food_delivery_dataset.csv
+│   ├── orders.csv
+│
+├── output_images/
+│   ├── aov_by_membership.png
+│   ├── order_amount_hist.png
+│   ├── revenue_by_restaurant.png
+    |---revenue_by_restaurant.png
+├── README.md
 
-## 📌 Project Overview
-- Project Type: Hackathon Project
-- Language: Python
-- Interface: Jupyter Notebook
-- IDE Used: VS Code
-- Version Control: Git & GitHub
+📊 Project Objectives
 
----
+Calculate Total Revenue
 
-## 📂 Project Structure
-HackathonProject/
-│── Hackathon project # Main Jupyter Notebook
--untitled.pynb
--untitled1.pynb 
-├── data/
-│ └── dataset.csv # Dataset used
+Identify Top Restaurants by Order Count
 
+Compute Average Order Value (AOV)
 
+Analyze Monthly Order Trends
 
----
+Generate visual insights using graphs
 
-## 🧪 Technologies & Libraries Used
-- Python 3.x
-- Jupyter Notebook
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
+🛠️ Technologies Used
 
+Python 3.x
 
----
+Jupyter Notebook
 
-## 📊 Dataset
-- The dataset is stored in the `data/` folder.
-- Format: CSV
-- Loaded using Pandas.
+Pandas
 
-Example:
-```python
-import pandas as pd
-df = pd.read_csv("data/dataset.csv")
-📈 Visualizations
-Graphs and plots are generated using Matplotlib / Seaborn.
+NumPy
 
-All outputs are visible inside the Jupyter Notebook.
+Matplotlib
+
+📦 Required Libraries
+
+Install dependencies using:
+
+pip install pandas numpy matplotlib
 
 ▶️ How to Run the Project
+
 Clone the repository:
 
-git clone Https:/luckylucky110507/Hackathon-Jupyter-Notebook.git
+git clone https://github.com/luckylucky110507/Hackathon-Jupyter-Notebook.git
+
+
 Open the project folder in VS Code or Jupyter Notebook.
 
-Open:
+Make sure the correct Python kernel is selected.
 
-HackathonProject.ipynb
-Run all cells sequentially.
+Open and run:
 
-🎯 Results
-The notebook demonstrates complete workflow:
+hackathon_project/orders_analysis.ipynb
 
-Data loading
+hackathon_project/food_delivery_analysis.ipynb
 
-Data preprocessing
+Run Restart & Run All for best results.
 
-Analysis / Model building
+📈 Outputs
 
-Visualization
+All generated graphs are saved in the output_images/ folder
 
-Final output
+Clean, readable tables and results are displayed in the notebooks
+
+✅ Features
+
+✔ Properly commented code
+✔ Clean and readable outputs
+✔ Well-structured dataset handling
+✔ Professional visualizations
+✔ Hackathon-ready project
 
 👩‍💻 Author
-Lucky Kumari
-B.Tech CSE Student
 
-Hackathon Participant
+Lucky Kumari
+B.Tech Computer Science Engineering
+IIMT University, Greater Noida
