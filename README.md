@@ -16,10 +16,9 @@ The project includes data processing, analysis, visualization, and final results
 
 ## 📂 Project Structure
 HackathonProject/
-│
-├── Hackathon project
-untitled.pynb
-untitled1.pynb # Main Jupyter Notebook
+│── Hackathon project # Main Jupyter Notebook
+-untitled.pynb
+-untitled1.pynb 
 ├── data/
 │ └── dataset.csv # Dataset used
 
