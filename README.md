@@ -19,6 +19,7 @@ Hackathon-Jupyter-Notebook/
 │   ├── order_amount_hist.png
 │   ├── revenue_by_restaurant.png
     |---revenue_by_restaurant.png
+    |---monthly_order_trends.png
 ├── README.md
 
 📊 Project Objectives
