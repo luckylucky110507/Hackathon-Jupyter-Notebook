@@ -18,7 +18,7 @@ Hackathon-Jupyter-Notebook/
 │   ├── aov_by_membership.png
     |---monthly_order_trends.png
 │   ├── order_amount_hist.png
-│   ├── revenue_by_restaurant.png
+│   ├── revenue_by_city.png
     |---revenue_by_restaurant.png
     |---top_5_restaurants.png
 ├── README.md
